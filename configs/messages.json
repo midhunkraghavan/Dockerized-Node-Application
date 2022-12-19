@@ -1,0 +1,9 @@
+{
+    "dbError": "Sorry, error in database",
+    "validationError": "Invalid request data.",
+    "generalSuccess":"Success",
+    "loginSuccess": "You've logged in successfully.",
+    "loginFailed": "Incorrect email or password. Please try again.",
+    "notAuthorized":"Not authorized"
+    
+}
