@@ -1,4 +1,0 @@
-{
-  "sql-file": true,
-  "configFile": "./configs/database.json"
-}

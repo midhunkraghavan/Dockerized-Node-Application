@@ -66,3 +66,14 @@
 *  you can change NODE_ENV in the .env file.
 *  NODE_ENV can be local,development or production.
 
+
+
+##### Project Is Dockaraized
+
+* To Build 
+
+      . sudo docker build -t mid/nodeapp:v1 .
+
+* To Run      
+        
+      . sudo docker run -p 3000:3000 mid/nodeapp:v1
