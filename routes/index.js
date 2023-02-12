@@ -11,7 +11,7 @@ router.get('/', function (req, res, next) {
     });
 });
 
-router.use('/dev/', (req, res, next) => {
+router.use('/', (req, res, next) => {
     if (req.method == "OPTIONS") {
         res.sendStatus(200)
         return
